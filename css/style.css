@@ -87,6 +87,7 @@ hr {
 }
 
 .about-me p {
+     display: none;
     padding: 20px;
     margin: 30px 0;
     color: #305B7F;
