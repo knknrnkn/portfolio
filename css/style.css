@@ -86,7 +86,7 @@ hr {
     margin-bottom: 50px;
 }
 
-.about-me p:hover {
+.about-me h2:hover {
 cursor:pointer;
 }
 .about-me p {
