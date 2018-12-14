@@ -86,6 +86,9 @@ hr {
     margin-bottom: 50px;
 }
 
+.about-me p:hover {
+cursor:pointer;
+}
 .about-me p {
      display: none;
     padding: 20px;
