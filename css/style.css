@@ -87,7 +87,8 @@ hr {
 }
 
 .about-me h2:hover {
-cursor:pointer;
+    cursor:pointer;
+    background: #305B7F;
 }
 .about-me p {
      display: none;
