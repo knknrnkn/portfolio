@@ -43,6 +43,9 @@ h1,
 h3 {
     font-weight: 300;
     margin: 0;
+    -webkit-text-fill-color: #305B7F;
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: #000;
 }
 
 hr {
