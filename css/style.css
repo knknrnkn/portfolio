@@ -78,6 +78,7 @@ hr {
 /* about me */
 
 .about-me h2 {
+    display:inline-block;
     padding-left: 20px;
     margin-top: 20px;
     font-weight: 700;
@@ -89,6 +90,7 @@ hr {
 .about-me h2:hover {
     cursor:pointer;
     background: #305B7F;
+    color:#fff;
 }
 .about-me p {
      display: none;
